@@ -3,4 +3,3 @@ channels:
   - defaults
 dependencies:
   - numpy=1.22
-prefix: /home/jovyan/test_cc/.conda/envs/test_cc
