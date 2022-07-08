@@ -2,6 +2,6 @@ name: my_env_test_build
 channels:
   - defaults
 dependencies:
-  - numpy
+  - responses=0.21
 category: build
 prefix: /home/jovyan/test_cc/.conda/envs/test_cc
