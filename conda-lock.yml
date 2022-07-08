@@ -17,7 +17,7 @@ metadata:
   - url: defaults
     used_env_vars: []
   content_hash:
-    linux-64: 813aab0fab032f45a1e8e1d095fc81bd6a9d50ba8e2ec31a94fed5d8f90dcdcd
+    linux-64: 8904eb659a800fa964cb139f6df36bfde2cdd0e8704836fc4c41a3c1b481059e
   platforms:
   - linux-64
   sources:
