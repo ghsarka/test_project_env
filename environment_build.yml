@@ -4,4 +4,3 @@ channels:
 dependencies:
   - requests=2.28
 category: build
-prefix: /home/jovyan/test_cc/.conda/envs/test_cc
