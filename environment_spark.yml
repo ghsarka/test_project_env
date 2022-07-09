@@ -1,0 +1,6 @@
+name: my_env_test_build
+channels:
+  - defaults
+dependencies:
+  - pandas=1.4
+category: spark
